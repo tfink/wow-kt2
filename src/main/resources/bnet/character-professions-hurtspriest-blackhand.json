@@ -1,0 +1,2833 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://eu.api.blizzard.com/profile/wow/character/blackhand/hurtspriest/professions?namespace=profile-eu"
+    }
+  },
+  "character": {
+    "key": {
+      "href": "https://eu.api.blizzard.com/profile/wow/character/blackhand/hurtspriest?namespace=profile-eu"
+    },
+    "name": "Hurtspriest",
+    "id": 168592048,
+    "realm": {
+      "key": {
+        "href": "https://eu.api.blizzard.com/data/wow/realm/566?namespace=dynamic-eu"
+      },
+      "name": "Blackhand",
+      "id": 566,
+      "slug": "blackhand"
+    }
+  },
+  "primaries": [
+    {
+      "profession": {
+        "key": {
+          "href": "https://eu.api.blizzard.com/data/wow/profession/333?namespace=static-11.2.5_63286-eu"
+        },
+        "name": "Enchanting",
+        "id": 333
+      },
+      "tiers": [
+        {
+          "skill_points": 10,
+          "max_skill_points": 305,
+          "tier": {
+            "name": "Classic Enchanting",
+            "id": 2494
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/4289?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Minor Health",
+              "id": 4289
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/4291?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Runed Copper Rod",
+              "id": 4291
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/4293?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Minor Dodge",
+              "id": 4293
+            }
+          ]
+        },
+        {
+          "skill_points": 105,
+          "max_skill_points": 105,
+          "tier": {
+            "name": "Khaz Algar Enchanting",
+            "id": 2874
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49179?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Recraft Equipment",
+              "id": 49179
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50575?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Gnome",
+              "id": 50575
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50577?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Dwarf",
+              "id": 50577
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50578?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Draenei",
+              "id": 50578
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50579?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Dark Iron Dwarf",
+              "id": 50579
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50580?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Blood Elf",
+              "id": 50580
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50581?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Goblin",
+              "id": 50581
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50582?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Highmountain Tauren",
+              "id": 50582
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50583?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Human",
+              "id": 50583
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50584?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Kul Tiran",
+              "id": 50584
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50585?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Lightforged Draenei",
+              "id": 50585
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50586?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Mag'har Orc",
+              "id": 50586
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50587?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Mechagnome",
+              "id": 50587
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50588?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Night Elf",
+              "id": 50588
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50589?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Nightborne",
+              "id": 50589
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50590?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Orc",
+              "id": 50590
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50591?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Pandaren",
+              "id": 50591
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50592?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Tauren",
+              "id": 50592
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50593?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Troll",
+              "id": 50593
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50594?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Undead",
+              "id": 50594
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50595?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Void Elf",
+              "id": 50595
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50596?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Vulpera",
+              "id": 50596
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50597?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Worgen",
+              "id": 50597
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50598?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleeful Glamour - Zandalari Troll",
+              "id": 50598
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/51517?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gleaming Shatter",
+              "id": 51517
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50474?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Shatter Essence",
+              "id": 50474
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50477?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Defender's March",
+              "id": 50477
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50478?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Glimmering Critical Strike",
+              "id": 50478
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50479?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Radiant Critical Strike",
+              "id": 50479
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50480?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Glimmering Haste",
+              "id": 50480
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50481?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Radiant Haste",
+              "id": 50481
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50482?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Glimmering Mastery",
+              "id": 50482
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50483?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Radiant Mastery",
+              "id": 50483
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50484?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Glimmering Versatility",
+              "id": 50484
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50487?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Authority of Fiery Resolve",
+              "id": 50487
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50489?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Mirror Powder",
+              "id": 50489
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50490?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Concentration Concentrate",
+              "id": 50490
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50491?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Enchanted Weathered Harbinger Crest",
+              "id": 50491
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50492?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Enchanted Runed Harbinger Crest",
+              "id": 50492
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50493?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Enchanted Gilded Harbinger Crest",
+              "id": 50493
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50494?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Runed Bismuth Rod",
+              "id": 50494
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50495?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Mana Oil",
+              "id": 50495
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50497?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Oil of Deep Toxins",
+              "id": 50497
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50499?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Oil of Beledar's Grace",
+              "id": 50499
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50500?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Enchanted Spearwood Wand",
+              "id": 50500
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50503?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Council's Intellect",
+              "id": 50503
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50504?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Crystalline Radiance",
+              "id": 50504
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50508?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Ingenuity",
+              "id": 50508
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50511?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Authority of Storms",
+              "id": 50511
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50512?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Council's Guile",
+              "id": 50512
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50513?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Stormrider's Fury",
+              "id": 50513
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50514?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Stonebound Artistry",
+              "id": 50514
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50515?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Oathsworn's Tenacity",
+              "id": 50515
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50516?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Illusory Adornment: Crystal",
+              "id": 50516
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50518?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Illusory Adornment: Runes",
+              "id": 50518
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50520?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Whisper of Armored Avoidance",
+              "id": 50520
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50522?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Whisper of Armored Leech",
+              "id": 50522
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50524?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Whisper of Armored Speed",
+              "id": 50524
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50525?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Chant of Armored Speed",
+              "id": 50525
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50526?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Whisper of Silken Avoidance",
+              "id": 50526
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50528?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Whisper of Silken Leech",
+              "id": 50528
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50530?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Whisper of Silken Speed",
+              "id": 50530
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50532?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Cursed Critical Strike",
+              "id": 50532
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50533?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Cursed Haste",
+              "id": 50533
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "profession": {
+        "key": {
+          "href": "https://eu.api.blizzard.com/data/wow/profession/755?namespace=static-11.2.5_63286-eu"
+        },
+        "name": "Jewelcrafting",
+        "id": 755
+      },
+      "tiers": [
+        {
+          "skill_points": 9,
+          "max_skill_points": 300,
+          "tier": {
+            "name": "Classic Jewelcrafting",
+            "id": 2524
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/13198?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Delicate Copper Wire",
+              "id": 13198
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/13290?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Braided Copper Ring",
+              "id": 13290
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/14814?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Rough Stone Statue",
+              "id": 14814
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/13537?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Woven Copper Ring",
+              "id": 13537
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/40909?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Classic Prospecting",
+              "id": 40909
+            }
+          ]
+        },
+        {
+          "skill_points": 100,
+          "max_skill_points": 100,
+          "tier": {
+            "name": "Dragon Isles Jewelcrafting",
+            "id": 2829
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47738?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Recraft Equipment",
+              "id": 47738
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/48576?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Statuette of Foreseen Power",
+              "id": 48576
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47477?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Opening",
+              "id": 47477
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47622?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Bold-Print Bifocals",
+              "id": 47622
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47333?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Kalu'ak Figurine",
+              "id": 47333
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47013?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dragon Isles Prospecting",
+              "id": 47013
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47968?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dragon Isles Crushing",
+              "id": 47968
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/48538?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "B.B.F. Fist",
+              "id": 48538
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/48577?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Figurine of the Gathering Storm",
+              "id": 48577
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47338?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Split-Lens Specs",
+              "id": 47338
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47002?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Resonant Focus",
+              "id": 47002
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47001?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Alexstraszite Loupes",
+              "id": 47001
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46934?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Crafty Queen's Ruby",
+              "id": 46934
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46935?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Zen Mystic Sapphire",
+              "id": 46935
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46936?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Energized Vibrant Emerald",
+              "id": 46936
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46939?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Crafty Alexstraszite",
+              "id": 46939
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46940?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sensei's Alexstraszite",
+              "id": 46940
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46941?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Radiant Alexstraszite",
+              "id": 46941
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46943?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Radiant Malygite",
+              "id": 46943
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46944?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Energized Malygite",
+              "id": 46944
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46946?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Stormy Malygite",
+              "id": 46946
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46947?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Crafty Ysemerald",
+              "id": 46947
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46948?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Keen Ysemerald",
+              "id": 46948
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46951?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sensei's Neltharite",
+              "id": 46951
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46952?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Keen Neltharite",
+              "id": 46952
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46955?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Jagged Nozdorite",
+              "id": 46955
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46956?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Forceful Nozdorite",
+              "id": 46956
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46958?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Steady Nozdorite",
+              "id": 46958
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46960?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fierce Illimited Diamond",
+              "id": 46960
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46961?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Skillful Illimited Diamond",
+              "id": 46961
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46963?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Tiered Medallion Setting",
+              "id": 46963
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46966?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Frameless Lens",
+              "id": 46966
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46967?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Glossy Stone",
+              "id": 46967
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46968?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Shimmering Clasp",
+              "id": 46968
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46969?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Blotting Sand",
+              "id": 46969
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46970?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pounce",
+              "id": 46970
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46971?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Idol of the Life-Binder",
+              "id": 46971
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46972?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Idol of the Spell-Weaver",
+              "id": 46972
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46973?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Idol of the Dreamer",
+              "id": 46973
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46975?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pendant of Impending Perils",
+              "id": 46975
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46978?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Signet of Titanic Insight",
+              "id": 46978
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46983?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Revitalizing Red Carving",
+              "id": 46983
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46990?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Jeweled Amber Whelpling",
+              "id": 46990
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46991?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Projection Prism",
+              "id": 46991
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46992?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Jeweled Offering",
+              "id": 46992
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46996?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Left-Handed Magnifying Glass",
+              "id": 46996
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46997?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sundered Onyx Loupe",
+              "id": 46997
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46998?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Chromatic Focus",
+              "id": 46998
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46999?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fine-Print Trifocals",
+              "id": 46999
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47000?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Magnificent Margin Magnifier",
+              "id": 47000
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47003?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Queen's Gift",
+              "id": 47003
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47005?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Keeper's Glory",
+              "id": 47005
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47006?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Earthwarden's Prize",
+              "id": 47006
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47007?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Timewatcher's Patience",
+              "id": 47007
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47004?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dreamer's Vision",
+              "id": 47004
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47009?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Elemental Harmony",
+              "id": 47009
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46957?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Puissant Nozdorite",
+              "id": 46957
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46950?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Quick Ysemerald",
+              "id": 46950
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46949?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Energized Ysemerald",
+              "id": 46949
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46953?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Zen Neltharite",
+              "id": 46953
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46942?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Deadly Alexstraszite",
+              "id": 46942
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46945?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Zen Malygite",
+              "id": 46945
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46988?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Jeweled Sapphire Whelpling",
+              "id": 46988
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46959?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Inscribed Illimited Diamond",
+              "id": 46959
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47955?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Torc of Passed Time",
+              "id": 47955
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46965?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Draconic Vial",
+              "id": 46965
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46954?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fractured Neltharite",
+              "id": 46954
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46974?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Idol of the Earth-Warder",
+              "id": 46974
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47008?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Jeweled Dragon's Heart",
+              "id": 47008
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46982?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Narcissist's Sculpture",
+              "id": 46982
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46962?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Resplendent Illimited Diamond",
+              "id": 46962
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46937?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sensei's Sundered Onyx",
+              "id": 46937
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46938?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Solid Eternity Amber",
+              "id": 46938
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47902?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Empty Soul Cage",
+              "id": 47902
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47875?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Illustrious Insight",
+              "id": 47875
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47192?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Band of New Beginnings",
+              "id": 47192
+            }
+          ]
+        },
+        {
+          "skill_points": 100,
+          "max_skill_points": 100,
+          "tier": {
+            "name": "Khaz Algar Jewelcrafting",
+            "id": 2879
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49722?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Deadly Amber",
+              "id": 49722
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49723?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Quick Amber",
+              "id": 49723
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49724?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Masterful Amber",
+              "id": 49724
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49726?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Versatile Amber",
+              "id": 49726
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49727?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Deadly Emerald",
+              "id": 49727
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49728?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Quick Emerald",
+              "id": 49728
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49729?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Masterful Emerald",
+              "id": 49729
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49730?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Versatile Emerald",
+              "id": 49730
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49731?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Deadly Onyx",
+              "id": 49731
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49732?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Quick Onyx",
+              "id": 49732
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49733?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Masterful Onyx",
+              "id": 49733
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49734?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Versatile Onyx",
+              "id": 49734
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49735?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Deadly Ruby",
+              "id": 49735
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49736?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Quick Ruby",
+              "id": 49736
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49737?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Masterful Ruby",
+              "id": 49737
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49738?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Versatile Ruby",
+              "id": 49738
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49739?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Deadly Sapphire",
+              "id": 49739
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49740?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Quick Sapphire",
+              "id": 49740
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49741?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Masterful Sapphire",
+              "id": 49741
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49742?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Versatile Sapphire",
+              "id": 49742
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49715?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Recraft Equipment",
+              "id": 49715
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49716?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Crushing",
+              "id": 49716
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49717?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Prospecting",
+              "id": 49717
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49771?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Insightful Blasphemite",
+              "id": 49771
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49772?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Culminating Blasphemite",
+              "id": 49772
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49773?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Elusive Blasphemite",
+              "id": 49773
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49777?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gilded Vial",
+              "id": 49777
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49778?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Engraved Gemcutter",
+              "id": 49778
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49779?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Decorative Lens",
+              "id": 49779
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49780?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Marbled Stone",
+              "id": 49780
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49781?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Inverted Prism",
+              "id": 49781
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49782?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sifted Cave Sand",
+              "id": 49782
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49783?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Ominous Energy Crystal",
+              "id": 49783
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49785?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Prismatic Null Stone",
+              "id": 49785
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49790?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Amber Prism",
+              "id": 49790
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49791?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Emerald Prism",
+              "id": 49791
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49792?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Ruby Prism",
+              "id": 49792
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49793?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Onyx Prism",
+              "id": 49793
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49794?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Sapphire Prism",
+              "id": 49794
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49795?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Radiant Loupes",
+              "id": 49795
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49797?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Incanter's Shard",
+              "id": 49797
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49799?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Right-Handed Magnifying Glass",
+              "id": 49799
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49801?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Storyteller's Glasses",
+              "id": 49801
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49802?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Novelist's Specs",
+              "id": 49802
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49803?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Malleable Band",
+              "id": 49803
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49804?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Malleable Pendant",
+              "id": 49804
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49806?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Binding of Binding",
+              "id": 49806
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49807?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fractured Gemstone Locket",
+              "id": 49807
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49808?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Ring of Earthen Craftsmanship",
+              "id": 49808
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49809?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Amulet of Earthen Craftsmanship",
+              "id": 49809
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49810?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Competitor's Signet",
+              "id": 49810
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/49811?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Algari Competitor's Amulet",
+              "id": 49811
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "secondaries": [
+    {
+      "profession": {
+        "key": {
+          "href": "https://eu.api.blizzard.com/data/wow/profession/794?namespace=static-11.2.5_63286-eu"
+        },
+        "name": "Archaeology",
+        "id": 794
+      },
+      "skill_points": 1,
+      "max_skill_points": 950
+    },
+    {
+      "profession": {
+        "key": {
+          "href": "https://eu.api.blizzard.com/data/wow/profession/185?namespace=static-11.2.5_63286-eu"
+        },
+        "name": "Cooking",
+        "id": 185
+      },
+      "tiers": [
+        {
+          "skill_points": 1,
+          "max_skill_points": 175,
+          "tier": {
+            "name": "Zandalari Cooking",
+            "id": 2541
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/39619?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Grilled Catfish",
+              "id": 39619
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/39625?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Mon'Dazi",
+              "id": 39625
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/43086?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Grilled Gnasher",
+              "id": 43086
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/43087?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dubious Delight",
+              "id": 43087
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/43088?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Ghastly Goulash",
+              "id": 43088
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/43089?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Baked Voidfin",
+              "id": 43089
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/43090?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "K'Bab",
+              "id": 43090
+            }
+          ]
+        },
+        {
+          "skill_points": 1,
+          "max_skill_points": 100,
+          "tier": {
+            "name": "Legion Cooking",
+            "id": 2542
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/35164?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Deep-Fried Mossgill",
+              "id": 35164
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/35165?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pickled Stormray",
+              "id": 35165
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/35166?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Faronaar Fizz",
+              "id": 35166
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/35172?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Drogbar-Style Salmon",
+              "id": 35172
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/35178?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dried Mackerel Strips",
+              "id": 35178
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/35180?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fighter Chow",
+              "id": 35180
+            }
+          ]
+        },
+        {
+          "skill_points": 100,
+          "max_skill_points": 100,
+          "tier": {
+            "name": "Draenor Cooking",
+            "id": 2543
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32618?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Hearty Elekk Steak",
+              "id": 32618
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32619?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Feast of Blood",
+              "id": 32619
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32620?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Blackrock Ham",
+              "id": 32620
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32621?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pan-Seared Talbuk",
+              "id": 32621
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32623?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Braised Riverbeast",
+              "id": 32623
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32624?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Rylak Crepes",
+              "id": 32624
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32625?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Clefthoof Sausages",
+              "id": 32625
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32626?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Steamed Scorpion",
+              "id": 32626
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32627?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Feast of the Waters",
+              "id": 32627
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32628?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Grilled Gulper",
+              "id": 32628
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32629?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sturgeon Stew",
+              "id": 32629
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32631?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fat Sleeper Cakes",
+              "id": 32631
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32632?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fiery Calamari",
+              "id": 32632
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32633?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Skulker Chowder",
+              "id": 32633
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32636?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Blackrock Barbecue",
+              "id": 32636
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32637?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Frosty Stew",
+              "id": 32637
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32639?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sleeper Surprise",
+              "id": 32639
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32640?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Calamari Crepes",
+              "id": 32640
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32641?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gorgrond Chowder",
+              "id": 32641
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32642?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Saberfish Broth",
+              "id": 32642
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32643?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Grilled Saberfish",
+              "id": 32643
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/33975?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Salty Squid Roll",
+              "id": 33975
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/33976?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Whiptail Fillet",
+              "id": 33976
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/33977?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sleeper Sushi",
+              "id": 33977
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/33978?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Jumbo Sea Dog",
+              "id": 33978
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/33979?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Buttered Sturgeon",
+              "id": 33979
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/33980?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pickled Eel",
+              "id": 33980
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/32634?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Talador Surf and Turf",
+              "id": 32634
+            }
+          ]
+        },
+        {
+          "skill_points": 75,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Pandaria Cooking",
+            "id": 2544
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26768?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pounded Rice Cake",
+              "id": 26768
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26769?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Yak Cheese Curds",
+              "id": 26769
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26770?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Toasted Fish Jerky",
+              "id": 26770
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26771?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dried Peaches",
+              "id": 26771
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26773?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Boiled Silkworm Pupa",
+              "id": 26773
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26775?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Tangy Yogurt",
+              "id": 26775
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26776?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Green Curry Fish",
+              "id": 26776
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26777?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Peach Pie",
+              "id": 26777
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26779?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Skewered Peanut Chicken",
+              "id": 26779
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26978?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Rice Pudding",
+              "id": 26978
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/24787?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Golden Carp Consomme",
+              "id": 24787
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26974?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sliced Peaches",
+              "id": 26974
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26976?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Roasted Barley Tea",
+              "id": 26976
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26977?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pearl Milk Tea",
+              "id": 26977
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26772?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dried Needle Mushrooms",
+              "id": 26772
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26774?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Red Bean Bun",
+              "id": 26774
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26979?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Wildfowl Ginseng Soup",
+              "id": 26979
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26778?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Blanched Needle Mushrooms",
+              "id": 26778
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/24788?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fish Cake",
+              "id": 24788
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/26975?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Perfectly Cooked Instant Noodles",
+              "id": 26975
+            }
+          ]
+        },
+        {
+          "skill_points": 75,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Cataclysm Cooking",
+            "id": 2545
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/22923?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Darkbrew Lager",
+              "id": 22923
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/22918?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Blackened Surprise",
+              "id": 22918
+            }
+          ]
+        },
+        {
+          "skill_points": 75,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Northrend Cooking",
+            "id": 2546
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19723?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Worm Delight",
+              "id": 19723
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19725?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Rhino Dogs",
+              "id": 19725
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19726?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Great Feast",
+              "id": 19726
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19712?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Smoked Rockfin",
+              "id": 19712
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19713?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Grilled Bonescale",
+              "id": 19713
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19714?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sauteed Goby",
+              "id": 19714
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19716?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Smoked Salmon",
+              "id": 19716
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19717?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Poached Nettlefish",
+              "id": 19717
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19718?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Baked Manta Ray",
+              "id": 19718
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19719?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pickled Fangtooth",
+              "id": 19719
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19721?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Mammoth Meal",
+              "id": 19721
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19722?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Shoveltusk Steak",
+              "id": 19722
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/20993?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Black Jelly",
+              "id": 20993
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19969?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dalaran Clam Chowder",
+              "id": 19969
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19724?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Roasted Worg",
+              "id": 19724
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/19715?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Grilled Sculpin",
+              "id": 19715
+            }
+          ]
+        },
+        {
+          "skill_points": 75,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Outland Cooking",
+            "id": 2547
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/15874?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Stewed Trout",
+              "id": 15874
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/15875?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fisherman's Feast",
+              "id": 15875
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/15876?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Hot Buttered Trout",
+              "id": 15876
+            }
+          ]
+        },
+        {
+          "skill_points": 300,
+          "max_skill_points": 300,
+          "tier": {
+            "name": "Classic Cooking",
+            "id": 2548
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/16292?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Charred Bear Kabobs",
+              "id": 16292
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/16293?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Juicy Bear Burger",
+              "id": 16293
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/3963?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Goblin Deviled Clams",
+              "id": 3963
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/3964?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Boiled Clams",
+              "id": 3964
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/16157?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Hot Apple Cider",
+              "id": 16157
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1536?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Spiced Wolf Meat",
+              "id": 1536
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1538?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Coyote Steak",
+              "id": 1538
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1540?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Westfall Stew",
+              "id": 1540
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1543?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Crab Cake",
+              "id": 1543
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1545?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Dry Pork Ribs",
+              "id": 1545
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/11997?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Spider Sausage",
+              "id": 11997
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/10244?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Spotted Yellowtail",
+              "id": 10244
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/10246?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Grilled Squid",
+              "id": 10246
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/10248?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Nightfin Soup",
+              "id": 10248
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/10249?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Poached Sunscale Salmon",
+              "id": 10249
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/3926?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Kaldorei Spider Kabob",
+              "id": 3926
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/2499?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Barbecued Buzzard Wing",
+              "id": 2499
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1903?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Tasty Lion Steak",
+              "id": 1903
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/11977?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gingerbread Cookie",
+              "id": 11977
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/11976?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Winter Veil Eggnog",
+              "id": 11976
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/15707?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Spice Bread",
+              "id": 15707
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/4786?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Herb Baked Egg",
+              "id": 4786
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1537?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Roasted Boar Meat",
+              "id": 1537
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1535?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Charred Wolf Meat",
+              "id": 1535
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/23825?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Venison Jerky",
+              "id": 23825
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/3929?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fillet of Frenzy",
+              "id": 3929
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/1904?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Soothing Turtle Bisque",
+              "id": 1904
+            }
+          ]
+        },
+        {
+          "skill_points": 75,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Shadowlands Cooking",
+            "id": 2752
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42446?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Butterscotch Marinated Ribs",
+              "id": 42446
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42447?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Spinefin Souffle and Fries",
+              "id": 42447
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42448?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Surprisingly Palatable Feast",
+              "id": 42448
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42449?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Feast of Gluttonous Hedonism",
+              "id": 42449
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42450?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Cinnamon Bonefish Stew",
+              "id": 42450
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42451?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Tenebrous Crown Roast Aspic",
+              "id": 42451
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42452?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Biscuits and Caviar",
+              "id": 42452
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42453?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Candied Amberjack Cakes",
+              "id": 42453
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42454?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Meaty Apple Dumplings",
+              "id": 42454
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42455?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Iridescent Ravioli with Apple Sauce",
+              "id": 42455
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42456?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pickled Meat Smoothie",
+              "id": 42456
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42457?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Banana Beef Pudding",
+              "id": 42457
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42459?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Seraph Tenders",
+              "id": 42459
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42460?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Smothered Shank",
+              "id": 42460
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42461?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Fried Bonefish",
+              "id": 42461
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42466?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sweet Silvergill Sausages",
+              "id": 42466
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/42467?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Steak a la Mode",
+              "id": 42467
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/46167?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Bonemeal Bread",
+              "id": 46167
+            }
+          ]
+        },
+        {
+          "skill_points": 100,
+          "max_skill_points": 100,
+          "tier": {
+            "name": "Dragon Isles Cooking",
+            "id": 2824
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47361?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Pebbled Rock Salts",
+              "id": 47361
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47362?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Assorted Exotic Spices",
+              "id": 47362
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47363?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Salad on the Side",
+              "id": 47363
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47365?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Cheese and Quackers",
+              "id": 47365
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47366?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Mackerel Snackerel",
+              "id": 47366
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47367?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Twice-Baked Potato",
+              "id": 47367
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47368?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Probably Protein",
+              "id": 47368
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47369?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Sweet and Sour Clam Chowder",
+              "id": 47369
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47370?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Breakfast of Draconic Champions",
+              "id": 47370
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47376?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Zesty Water",
+              "id": 47376
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47377?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Delicious Dragon Spittle",
+              "id": 47377
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47380?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Charred Hornswog Steaks",
+              "id": 47380
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47381?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Scrambled Basilisk Eggs",
+              "id": 47381
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47383?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Hopefully Healthy",
+              "id": 47383
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47387?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Salted Meat Mash",
+              "id": 47387
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47400?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gral's Reverence",
+              "id": 47400
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47401?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gral's Veneration",
+              "id": 47401
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47402?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Gral's Devotion",
+              "id": 47402
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/48493?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Charitable Cheddar",
+              "id": 48493
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/48814?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Slumbering Peacebloom Tea",
+              "id": 48814
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/48280?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Deviously Deviled Eggs",
+              "id": 48280
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47354?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Ooey-Gooey Chocolate",
+              "id": 47354
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "profession": {
+        "key": {
+          "href": "https://eu.api.blizzard.com/data/wow/profession/356?namespace=static-11.2.5_63286-eu"
+        },
+        "name": "Fishing",
+        "id": 356
+      },
+      "tiers": [
+        {
+          "skill_points": 1,
+          "max_skill_points": 175,
+          "tier": {
+            "name": "Zandalari Fishing",
+            "id": 2585
+          }
+        },
+        {
+          "skill_points": 1,
+          "max_skill_points": 100,
+          "tier": {
+            "name": "Legion Fishing",
+            "id": 2586
+          }
+        },
+        {
+          "skill_points": 1,
+          "max_skill_points": 100,
+          "tier": {
+            "name": "Draenor Fishing",
+            "id": 2587
+          }
+        },
+        {
+          "skill_points": 1,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Pandaria Fishing",
+            "id": 2588
+          }
+        },
+        {
+          "skill_points": 1,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Cataclysm Fishing",
+            "id": 2589
+          }
+        },
+        {
+          "skill_points": 1,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Northrend Fishing",
+            "id": 2590
+          }
+        },
+        {
+          "skill_points": 1,
+          "max_skill_points": 75,
+          "tier": {
+            "name": "Outland Fishing",
+            "id": 2591
+          }
+        },
+        {
+          "skill_points": 22,
+          "max_skill_points": 300,
+          "tier": {
+            "name": "Classic Fishing",
+            "id": 2592
+          }
+        },
+        {
+          "skill_points": 195,
+          "max_skill_points": 200,
+          "tier": {
+            "name": "Shadowlands Fishing",
+            "id": 2754
+          }
+        },
+        {
+          "skill_points": 6,
+          "max_skill_points": 100,
+          "tier": {
+            "name": "Dragon Isles Fishing",
+            "id": 2826
+          },
+          "known_recipes": [
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47906?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Thousandbite Piranha",
+              "id": 47906
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47907?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Cerulean Spinefish",
+              "id": 47907
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47908?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Aileron Seamoth",
+              "id": 47908
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47909?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Temporal Dragonhead",
+              "id": 47909
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47910?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Shimmering Treasure",
+              "id": 47910
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47911?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Islefin Dorado",
+              "id": 47911
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47912?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Scalebelly Mackerel",
+              "id": 47912
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47913?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Rimefin Tuna",
+              "id": 47913
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47914?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Magma Thresherl",
+              "id": 47914
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/47915?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Prismatic Leaper",
+              "id": 47915
+            },
+            {
+              "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/recipe/50421?namespace=static-11.2.5_63286-eu"
+              },
+              "name": "Prismatic Leaper",
+              "id": 50421
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
