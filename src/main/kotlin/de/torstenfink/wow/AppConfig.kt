@@ -15,7 +15,7 @@ class AppConfig {
     fun restClient(): RestClient {
         return RestClient.builder()
             .baseUrl("https://eu.api.blizzard.com/")
-            .defaultHeader(HttpHeaders.AUTHORIZATION, "Bearer EUbrOUAJmzBDV4m4I2uc13yujFiWvYG4AT")
+            .defaultHeader(HttpHeaders.AUTHORIZATION, "Bearer EUIevGNCR8FvsiMk7j5Z8WyWgVpIKss5wr")
             .defaultUriVariables(mapOf("namespace" to "profile-eu", "locale" to "en_GB"))
             .requestInterceptor(RestClientInterceptor())
             .build()
